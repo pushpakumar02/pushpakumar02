@@ -22,8 +22,8 @@
 <!--![](https://komarev.com/ghpvc/?username=Pushpakumar02&label=profile+views&style=plastic) -->
 ## [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 <a href="https://github.com/jstrieb/github-stats">
-<img src="https://raw.githubusercontent.com/Pushpakumar02/Pushpakumar02/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/Pushpakumar02/Pushpakumar02/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/Pushpakumar02/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/Pushpakumar02/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 
